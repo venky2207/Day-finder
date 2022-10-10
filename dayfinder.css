@@ -1,0 +1,32 @@
+body{
+	background-color: #4C4E52;
+	color: white;
+	text-align: center;
+}
+#box{
+	position: absolute;
+	width: 340px;
+	height: 220px;
+	border: 1px solid #E3DDD5;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 180px;
+	margin-left: 400px;
+}
+#day{
+	color: tomato;
+	margin-top: 20px;
+}
+#head{
+	margin-top: 10px;
+}
+#dat{
+	margin-top: 10px;
+}
+#mon{
+	margin-top: 10px;
+	margin-right: 13px;
+}
+#yea{
+	margin-top: 10px;
+}
